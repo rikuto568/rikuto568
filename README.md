@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rikuto</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-- 🌱 I’m currently learning **Next.js Ruby on Rails**
+- 🌱 I’m currently learning **Next.js,Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://rikuto568.github.io/portfolio/](https://rikuto568.github.io/portfolio/)
 
